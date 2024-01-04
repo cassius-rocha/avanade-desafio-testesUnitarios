@@ -11,5 +11,5 @@ Foram exercitadas as três partes que constituem o teste: Arrange, Act, Assert.
 ## Conclusão
 Este projeto se mostrou um ótimo meio de ver em contexto e fixar o conhecimento adquirido nos tópicos de testes unitários com xUnit.
 Desde a criação do projeto no VSCode, sua estruturação e organização, ao reconhecimento dos erros presentes no código, pude praticar e entender melhor como são realizados os testes unitários. 
-Definitivamente, estou convencido da importância de realizar os testes, bem como do ganho de agilidade e segurança com sua implementação.
+Definitivamente, estou convencido de sua importância, bem como do ganho de agilidade e segurança com a implementação dos testes.
 Mais uma vez, saio do desafio do Decola Tech ansiando por colocar em prática o que aprendi.
